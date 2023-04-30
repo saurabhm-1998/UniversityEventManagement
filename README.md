@@ -31,7 +31,7 @@ The Repository layer manages the data storage and retrieval. In this application
 This project uses an in-memory data storage approach, using H2 database in Java to store user data.
 
 ## Data Structured Used
-This project uses the following data structures:
+The project uses Java objects as data structures. The Event class and Student class is the main data structure used in the project, which has the following attributes:
 
 Entity: Student
 

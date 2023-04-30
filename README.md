@@ -1,4 +1,4 @@
-# User_Management_System_With_Validation_Springboot
+# University_Management_System_Springboot
 
 This is a User Management System built with Java and Spring Boot. The project uses ArrayList as a database for storing user information. The application provides functionality to create, read, update and delete users.
 
